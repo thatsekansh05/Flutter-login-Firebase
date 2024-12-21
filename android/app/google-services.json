@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "601052336382",
+    "project_id": "login1-ccf75",
+    "storage_bucket": "login1-ccf75.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601052336382:android:8caabab3816a38898d15af",
+        "android_client_info": {
+          "package_name": "com.example.login1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO0JYm3_BEVoNcmIx_UN1WPoiXnzehqPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
